@@ -2,6 +2,9 @@
 
 <h4>Description: <br><br>TODO<br></h4>
 
+## Dataset:
+https://www.kaggle.com/jealousleopard/goodreadsbooks
+
 ## Motivation:
 TODO
 
